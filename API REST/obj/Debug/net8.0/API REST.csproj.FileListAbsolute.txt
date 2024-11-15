@@ -1,0 +1,33 @@
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\bin\Debug\net8.0\API REST.exe
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\bin\Debug\net8.0\API REST.deps.json
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\bin\Debug\net8.0\API REST.runtimeconfig.json
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\bin\Debug\net8.0\API REST.dll
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\bin\Debug\net8.0\API REST.pdb
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\obj\Debug\net8.0\API REST.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\obj\Debug\net8.0\API REST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\obj\Debug\net8.0\API REST.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\obj\Debug\net8.0\API REST.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\obj\Debug\net8.0\API REST.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\obj\Debug\net8.0\API REST.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\obj\Debug\net8.0\API REST.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\obj\Debug\net8.0\API REST.sourcelink.json
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\obj\Debug\net8.0\staticwebassets\msbuild.API REST.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\obj\Debug\net8.0\staticwebassets\msbuild.build.API REST.props
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API REST.props
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API REST.props
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\obj\Debug\net8.0\scopedcss\bundle\API REST.styles.css
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\obj\Debug\net8.0\API REST.csproj.Up2Date
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\obj\Debug\net8.0\API REST.dll
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\obj\Debug\net8.0\refint\API REST.dll
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\obj\Debug\net8.0\API REST.pdb
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\obj\Debug\net8.0\API REST.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Programación\APIS---NET\API REST\obj\Debug\net8.0\ref\API REST.dll
