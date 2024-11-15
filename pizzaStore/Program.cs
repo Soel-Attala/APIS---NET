@@ -1,4 +1,6 @@
 using Microsoft.OpenApi.Models;
+using PizzaStore.DB;
+
 
 var builder = WebApplication.CreateBuilder(args);
     
@@ -20,19 +22,7 @@ if (app.Environment.IsDevelopment())
 }
 
 
-//GET
-app.MapGet("/", () => "Hello World!");
-app.MapGet("/products", () => data);
-app.MapGet("/products/{id}", (int id) => data.SingleOrDefault(product => product.Id == id));
 
-//POST
-app.MapPost("/products", (Product product) => /**/);
-
-//PUT 
-app.MapPut("/products", (Product product) => /* Update the data store using the `product` instance */);
-
-//DELETE 
-app.MapDelete("/products/{id}", (int id) => /* Remove the record whose unique identifier matches `id` */);
 
 
 app.Run();
