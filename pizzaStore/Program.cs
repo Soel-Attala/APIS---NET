@@ -21,7 +21,18 @@ if (app.Environment.IsDevelopment())
    });
 }
 
+//GET
+app.MapGet("/pizzas/{id}", (int id) => PizzaDB.GetPizza(id));
+app.MapGet("/pizzas", () => PizzaDB.GetPizzas());
 
+//POST
+app.MapPost("/pizzas", (Pizza pizza) => PizzaDB.CreatePizza(pizza));
+
+//PUT
+app.MapPut("/pizzas", (Pizza pizza) => PizzaDB.UpdatePizza(pizza));
+
+//DELETE
+app.MapDelete("/pizzas/{id}", (int id) => PizzaDB.RemovePizza(id));
 
 
 
